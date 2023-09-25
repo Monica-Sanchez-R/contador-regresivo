@@ -12,4 +12,4 @@ Este repositorio contiene una aplicación web simple que implementa un temporiza
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone [https://github.com/TuUsuario/temporizador-contador-regresiva.git]
+   git clone[ [https://github.com/TuUsuario/temporizador-contador-regresiva.git]](https://github.com/Monica-Sanchez-R/contador-regresivo)https://github.com/Monica-Sanchez-R/contador-regresivo
